@@ -3,7 +3,7 @@ import 'firebase/compat/auth';
 
 export const auth = firebase
   .initializeApp({
-    apiKey: "AIzaSyC3uqIn7qH0bGxZTlAU7m-6jUt-ABbMaU8",
+    apiKey:"AIzaSyC3uqIn7qH0bGxZTlAU7m-6jUt-ABbMaU8",
     authDomain: "chatify-25.firebaseapp.com",
     projectId: "chatify-25",
     storageBucket: "chatify-25.appspot.com",
